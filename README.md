@@ -6,9 +6,9 @@ A hybrid deep learning model for predicting urban stormwater total suspended sol
 
 This repository contains the source code for the paper:
 
-> **[Non-Point Source Pollution Prediction and Dynamics Simulation in Urban Runoff: A Physics-Informed Neural Network Approach]**  
-> *[Sijie TANG, Jiping JIANG, Shuo WANG, Yi ZHENG, Dragan SAVIC, and Aijie ZHANG]*  
-> *[Water Research], [2026]*
+> **Non-Point Source Pollution Prediction and Dynamics Simulation in Urban Runoff: A Physics-Informed Neural Network Approach**  
+> *Sijie TANG, Jiping JIANG, Shuo WANG, Yi ZHENG, Dragan SAVIC, and Aijie ZHANG*  
+> *Water Research, 2026*
 
 The model (PIWON) integrates:
 - **GRU-based Encoder–Decoder** for rainfall-driven runoff estimation
